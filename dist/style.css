@@ -100,7 +100,7 @@ section {
   left: 0;
   right: -70%;
   margin: auto;
-  z-index: -2;
+  z-index: -99;
 }
 
 .text {
