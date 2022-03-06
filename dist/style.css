@@ -100,6 +100,7 @@ section {
   left: 0;
   right: -70%;
   margin: auto;
+  z-index: -2;
 }
 
 .text {
@@ -128,7 +129,7 @@ section {
 .me {
   height: auto;
   min-width: 100%;
-  bottom: -12%;
+  bottom: -6vw;
   position: absolute;
   z-index: -1;
 }
